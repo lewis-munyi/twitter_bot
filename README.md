@@ -11,6 +11,7 @@ A simple python bot to delete unwanted tweets
 ## Setup
 
 Install python 3 and pip if you do not already have them installed
+
 Install tweepy by running pip instal tweepy in your terminal
 
 ``` sh
